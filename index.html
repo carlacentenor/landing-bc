@@ -116,7 +116,8 @@
                                             <img class="img-calendar" src="images/globe.png" alt="">
                                         </div>
                                         <div class="unit-body">
-                                            <h5 class="text-spacing-100 title-footer"><span class="big">Bogota</span></h5>
+                                            <h5 class="text-spacing-100 title-footer"><span class="big">Bogota</span>
+                                            </h5>
                                         </div>
                                     </div>
                                 </li>
@@ -446,14 +447,15 @@
                     <div class="">
                         <div class="row row-30 justify-content-center ">
                             <div class="col-md-3 col-lg-3 col-xl-3">
-                                <h6 class="title-news">CULTURA</h6>
-                                <p class="text-meet-2">Desde hace 4 años estamos inmersos en una Transformación, que ha impactado en nuestra cultura, productos y canales. ¿El objetivo? La mejor experiencia para nuestros clientes. </p>
-                            </div>
-                            <div class="col-md-3 col-lg-3 col-xl-3">
                                 <h6 class="title-news">BCP</h6>
                                 <p class="text-meet-2">Hoy reunimos talento de distintas especialidades y buscamos personas: obsesionadas con el cliente, transparentes, pensamiento disruptivo, autodidactas, colaborativas y que sean solidarias. </p>
 
                             </div>
+                            <div class="col-md-3 col-lg-3 col-xl-3">
+                                <h6 class="title-news">TALENTO</h6>
+                                <p class="text-meet-2">Desde hace 4 años estamos inmersos en una Transformación, que ha impactado en nuestra cultura, productos y canales. ¿El objetivo? La mejor experiencia para nuestros clientes. </p>
+                            </div>
+
                             <div class="col-md-3 col-lg-3 col-xl-3">
                                 <h6 class="title-news">MEET-UP</h6>
                                 <p class="text-meet-2">No dejes de participar del Meet Up Networking Session para conocer de cerca al banco líder en el Perú, las oportunidades de trabajo que ofrece en ese país, así como a otros profesionales del rubro. </p>
@@ -531,19 +533,64 @@
                                 <label class="form-label" for="contact-name">Nombre</label>
                             </div>
                             <div class="form-wrap">
-                                <input class="form-input" id="subscribe-form-email" type="email" name="email" data-constraints="@Email @Required">
-                                <label class="form-label" for="subscribe-form-email">Email</label>
-                            </div>
-                            <div class="form-wrap">
-                                <input class="form-input" id="contact-phone" type="number" name="phone" data-constraints="@Required">
+                                <input class="form-input w50" id="contact-phone" type="number" name="phone" data-constraints="@Required">
                                 <label class="form-label" for="contact-phone">Teléfono</label>
                             </div>
                             <div class="form-wrap">
-                                <input class="form-input" id="contact-work" type="text" name="work" data-constraints="@Required">
-                                <label class="form-label" for="contact-work">Lugar de trabajo</label>
+                                <input class="form-input" id="subscribe-form-email" type="email" name="email" data-constraints="@Email @Required">
+                                <label class="form-label" for="subscribe-form-email">Correo</label>
                             </div>
+
+
+                            <div class="form-wrap">
+                                <input class="form-input" id="contact-linkedin" type="text" name="linkedin" data-constraints="@Required">
+                                <label class="form-label" for="contact-linkedin">Enlace a LinkedIn</label>
+                            </div>
+                            <div class="form-wrap">
+                                <div class="row row-narrow row-20">
+                                    <div class="col-md-6">
+                                        <div class="form-wrap">
+                                            <select class="form-input" id="inputState" class="form-control">
+                                            <option >Perfil Profesional</option>
+                                            <option>Agile Coach</option>
+                                            <option>UX</option>
+                                            <option>UI</option>
+                                            <option>Otros</option>
+                                        </select>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-wrap">
+                                            <input class="form-input" id="contact-detail" type="text" name="detail" data-constraints="@Email @Required">
+                                            <label class="form-label" for="contact-detail">Detallar</label>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <div class="form-wrap">
+                                <input class="form-input" id="contact-work" type="text" name="work" data-constraints="@Required">
+                                <label class="form-label" for="contact-work">Años de experiencia en el rol
+                                    actual</label>
+                            </div>
+                            <div class="form-wrap">
+                                <input class="form-input" id="last-work" type="text" name="last-work" data-constraints="@Required">
+                                <label class="form-label" for="last-work">Último trabajo</label>
+                            </div>
+
+
+                            <div class="form-group form-check">
+                                <label class="container-ck">Acepto términos y condiciones
+                                            <input type="checkbox" checked="checked">
+                                            <span class="checkmark"></span>
+                                          </label>
+                            </div>
+
                             <div class="form-button">
-                                <button class="button button-primary button-blue" type="submit" data-triangle=".button-overlay"><span>Enviar mensaje</span><span
+                                <button class="button button-primary button-blue" type="submit" data-triangle=".button-overlay"><span>Confirmar</span><span
                                         class="button-overlay"></span></button>
                             </div>
                         </form>
