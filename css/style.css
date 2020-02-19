@@ -6428,7 +6428,7 @@
         width: 36px;
         height: 36px;
         margin: 0 auto;
-        border: 3px solid #d90e90;
+        border: 3px solid #ff4f10;
         border-radius: 50%;
         border-left-color: transparent;
         border-bottom-color: transparent;
@@ -7185,7 +7185,7 @@
         padding: 4px;
         color: #8b8b9a;
         box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.2);
-        background: #ffffff;
+        background: #26264b;
     }
     
     .rd-navbar-fixed .rd-navbar-nav-wrap {
@@ -12757,7 +12757,7 @@
     
     @media (min-width: 1800px) {
         .video-link-wrapper {
-            right: calc( 50% - 880px);
+            right: calc(50% - 880px);
         }
     }
     /**
@@ -13726,180 +13726,180 @@
         }
         .parallax-js .layer-01 {
             top: -0.5%;
-            left: calc( 50% - 540px / 2);
+            left: calc(50% - 540px / 2);
         }
         .parallax-js .layer-02 {
             top: 15%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 10);
+            left: calc(50% - 540px / 2 + 540px / 12 * 10);
         }
         .parallax-js .layer-03 {
             top: 42%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 1.4);
+            left: calc(50% - 540px / 2 + 540px / 12 * 1.4);
         }
         .parallax-js .layer-04 {
             top: 55%;
-            left: calc( 50% - 540px / 2 - 540px / 12 * 1.3);
+            left: calc(50% - 540px / 2 - 540px / 12 * 1.3);
         }
         .parallax-js .layer-05 {
             top: 64%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 1.2);
+            left: calc(50% - 540px / 2 + 540px / 12 * 1.2);
         }
         .parallax-js .layer-06 {
             top: 81.5%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 4);
+            left: calc(50% - 540px / 2 + 540px / 12 * 4);
         }
         .parallax-js .layer-07 {
             top: 42%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 12);
+            left: calc(50% - 540px / 2 + 540px / 12 * 12);
         }
         .parallax-js .layer-08 {
             top: 81.5%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 11);
+            left: calc(50% - 540px / 2 + 540px / 12 * 11);
         }
         .parallax-js .layer-09 {
             z-index: 2;
             top: 15%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 13);
+            left: calc(50% - 540px / 2 + 540px / 12 * 13);
         }
         .parallax-js .layer-10 {
             z-index: 1;
             top: 23%;
-            left: calc( 50% - 540px / 2 + 540px / 12 * 13.5);
+            left: calc(50% - 540px / 2 + 540px / 12 * 13.5);
         }
     }
     
     @media (min-width: 768px) {
         .parallax-js .layer-01 {
             top: -0.5%;
-            left: calc( 50% - 720px / 2);
+            left: calc(50% - 720px / 2);
         }
         .parallax-js .layer-02 {
             top: 15%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 10);
+            left: calc(50% - 720px / 2 + 720px / 12 * 10);
         }
         .parallax-js .layer-03 {
             top: 42%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 1.4);
+            left: calc(50% - 720px / 2 + 720px / 12 * 1.4);
         }
         .parallax-js .layer-04 {
             top: 55%;
-            left: calc( 50% - 720px / 2 - 720px / 12 * 1.3);
+            left: calc(50% - 720px / 2 - 720px / 12 * 1.3);
         }
         .parallax-js .layer-05 {
             top: 64%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 1.2);
+            left: calc(50% - 720px / 2 + 720px / 12 * 1.2);
         }
         .parallax-js .layer-06 {
             top: 81.5%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 4);
+            left: calc(50% - 720px / 2 + 720px / 12 * 4);
         }
         .parallax-js .layer-07 {
             top: 42%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 12);
+            left: calc(50% - 720px / 2 + 720px / 12 * 12);
         }
         .parallax-js .layer-08 {
             top: 81.5%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 11);
+            left: calc(50% - 720px / 2 + 720px / 12 * 11);
         }
         .parallax-js .layer-09 {
             z-index: 2;
             top: 15%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 13);
+            left: calc(50% - 720px / 2 + 720px / 12 * 13);
         }
         .parallax-js .layer-10 {
             z-index: 1;
             top: 23%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 13.5);
+            left: calc(50% - 720px / 2 + 720px / 12 * 13.5);
         }
     }
     
     @media (min-width: 992px) {
         .parallax-js .layer-01 {
             top: -0.5%;
-            left: calc( 50% - 960px / 2);
+            left: calc(50% - 960px / 2);
         }
         .parallax-js .layer-02 {
             top: 15%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 10);
+            left: calc(50% - 960px / 2 + 960px / 12 * 10);
         }
         .parallax-js .layer-03 {
             top: 42%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 1.4);
+            left: calc(50% - 960px / 2 + 960px / 12 * 1.4);
         }
         .parallax-js .layer-04 {
             top: 55%;
-            left: calc( 50% - 960px / 2 - 960px / 12 * 1.3);
+            left: calc(50% - 960px / 2 - 960px / 12 * 1.3);
         }
         .parallax-js .layer-05 {
             top: 64%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 1.2);
+            left: calc(50% - 960px / 2 + 960px / 12 * 1.2);
         }
         .parallax-js .layer-06 {
             top: 81.5%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 4);
+            left: calc(50% - 960px / 2 + 960px / 12 * 4);
         }
         .parallax-js .layer-07 {
             top: 42%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 12);
+            left: calc(50% - 960px / 2 + 960px / 12 * 12);
         }
         .parallax-js .layer-08 {
             top: 81.5%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 11);
+            left: calc(50% - 960px / 2 + 960px / 12 * 11);
         }
         .parallax-js .layer-09 {
             z-index: 2;
             top: 15%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 13);
+            left: calc(50% - 960px / 2 + 960px / 12 * 13);
         }
         .parallax-js .layer-10 {
             z-index: 1;
             top: 23%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 13.5);
+            left: calc(50% - 960px / 2 + 960px / 12 * 13.5);
         }
     }
     
     @media (min-width: 1200px) {
         .parallax-js .layer-01 {
             top: -0.5%;
-            left: calc( 50% - 1200px / 2 - 70px);
+            left: calc(50% - 1200px / 2 - 70px);
         }
         .parallax-js .layer-02 {
             top: 15%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 10);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 10);
         }
         .parallax-js .layer-03 {
             top: 42%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 1.4);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 1.4);
         }
         .parallax-js .layer-04 {
             top: 55%;
-            left: calc( 50% - 1200px / 2 - 1200px / 12 * 2);
+            left: calc(50% - 1200px / 2 - 1200px / 12 * 2);
         }
         .parallax-js .layer-05 {
             top: 64%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 1.2);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 1.2);
         }
         .parallax-js .layer-06 {
             top: 81.5%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 3);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 3);
         }
         .parallax-js .layer-07 {
             top: 42%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 12);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 12);
         }
         .parallax-js .layer-08 {
             top: 76.5%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 11);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 11);
         }
         .parallax-js .layer-09 {
             z-index: 2;
             top: 15%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 13);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 13);
         }
         .parallax-js .layer-10 {
             z-index: 1;
             top: 23%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 13.5);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 13.5);
         }
     }
     
@@ -14299,147 +14299,147 @@
         }
         .parallax-js-moderm .layer-01 {
             top: 9%;
-            left: calc( 50% - 720px / 2 - 720px / 12 * 1);
+            left: calc(50% - 720px / 2 - 720px / 12 * 1);
         }
         .parallax-js-moderm .layer-02 {
             top: 28.5%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 10.5);
+            left: calc(50% - 720px / 2 + 720px / 12 * 10.5);
         }
         .parallax-js-moderm .layer-03 {
             top: 32%;
-            left: calc( 50% - 720px / 2 + 720px / 12 - 30px);
+            left: calc(50% - 720px / 2 + 720px / 12 - 30px);
         }
         .parallax-js-moderm .layer-04 {
             top: 63%;
-            left: calc( 50% - 720px / 2 - 720px / 12 * 1.3);
+            left: calc(50% - 720px / 2 - 720px / 12 * 1.3);
         }
         .parallax-js-moderm .layer-05 {
             top: 75%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 1.2);
+            left: calc(50% - 720px / 2 + 720px / 12 * 1.2);
         }
         .parallax-js-moderm .layer-06 {
             top: 44%;
-            left: calc( 50% - 720px / 2 - 720px / 12 * 2);
+            left: calc(50% - 720px / 2 - 720px / 12 * 2);
         }
         .parallax-js-moderm .layer-07 {
             top: 52%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 12);
+            left: calc(50% - 720px / 2 + 720px / 12 * 12);
         }
         .parallax-js-moderm .layer-08 {
             bottom: 0;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 11);
+            left: calc(50% - 720px / 2 + 720px / 12 * 11);
         }
         .parallax-js-moderm .layer-09 {
             z-index: 2;
             top: 20%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 13.5);
+            left: calc(50% - 720px / 2 + 720px / 12 * 13.5);
         }
         .parallax-js-moderm .layer-10 {
             z-index: 1;
             top: 27%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 14);
+            left: calc(50% - 720px / 2 + 720px / 12 * 14);
         }
         .parallax-js-moderm .layer-11 {
             top: 69%;
-            left: calc( 50% - 720px / 2 + 720px / 12 * 9.55);
+            left: calc(50% - 720px / 2 + 720px / 12 * 9.55);
         }
     }
     
     @media (min-width: 992px) {
         .parallax-js-moderm .layer-01 {
             top: 9%;
-            left: calc( 50% - 960px / 2 - 960px / 12 * 1);
+            left: calc(50% - 960px / 2 - 960px / 12 * 1);
         }
         .parallax-js-moderm .layer-02 {
             top: 28.5%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 10.5);
+            left: calc(50% - 960px / 2 + 960px / 12 * 10.5);
         }
         .parallax-js-moderm .layer-03 {
             top: 32%;
-            left: calc( 50% - 960px / 2 + 960px / 12 - 30px);
+            left: calc(50% - 960px / 2 + 960px / 12 - 30px);
         }
         .parallax-js-moderm .layer-04 {
             top: 63%;
-            left: calc( 50% - 960px / 2 - 960px / 12 * 1.3);
+            left: calc(50% - 960px / 2 - 960px / 12 * 1.3);
         }
         .parallax-js-moderm .layer-05 {
             top: 75%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 1.2);
+            left: calc(50% - 960px / 2 + 960px / 12 * 1.2);
         }
         .parallax-js-moderm .layer-06 {
             top: 44%;
-            left: calc( 50% - 960px / 2 - 960px / 12 * 2);
+            left: calc(50% - 960px / 2 - 960px / 12 * 2);
         }
         .parallax-js-moderm .layer-07 {
             top: 52%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 12);
+            left: calc(50% - 960px / 2 + 960px / 12 * 12);
         }
         .parallax-js-moderm .layer-08 {
             bottom: 0;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 11);
+            left: calc(50% - 960px / 2 + 960px / 12 * 11);
         }
         .parallax-js-moderm .layer-09 {
             z-index: 2;
             top: 20%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 13.5);
+            left: calc(50% - 960px / 2 + 960px / 12 * 13.5);
         }
         .parallax-js-moderm .layer-10 {
             z-index: 1;
             top: 27%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 14);
+            left: calc(50% - 960px / 2 + 960px / 12 * 14);
         }
         .parallax-js-moderm .layer-11 {
             top: 69%;
-            left: calc( 50% - 960px / 2 + 960px / 12 * 9.55);
+            left: calc(50% - 960px / 2 + 960px / 12 * 9.55);
         }
     }
     
     @media (min-width: 1200px) {
         .parallax-js-moderm .layer-01 {
             top: 9%;
-            left: calc( 50% - 1200px / 2 - 1200px / 12 * 1);
+            left: calc(50% - 1200px / 2 - 1200px / 12 * 1);
         }
         .parallax-js-moderm .layer-02 {
             top: 28.5%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 10.5);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 10.5);
         }
         .parallax-js-moderm .layer-03 {
             top: 32%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 - 30px);
+            left: calc(50% - 1200px / 2 + 1200px / 12 - 30px);
         }
         .parallax-js-moderm .layer-04 {
             top: 63%;
-            left: calc( 50% - 1200px / 2 - 1200px / 12 * 1.3);
+            left: calc(50% - 1200px / 2 - 1200px / 12 * 1.3);
         }
         .parallax-js-moderm .layer-05 {
             top: 75%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 1.2);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 1.2);
         }
         .parallax-js-moderm .layer-06 {
             top: 44%;
-            left: calc( 50% - 1200px / 2 - 1200px / 12 * 2);
+            left: calc(50% - 1200px / 2 - 1200px / 12 * 2);
         }
         .parallax-js-moderm .layer-07 {
             top: 52%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 12);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 12);
         }
         .parallax-js-moderm .layer-08 {
             bottom: 0;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 11);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 11);
         }
         .parallax-js-moderm .layer-09 {
             z-index: 2;
             top: 20%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 13.5);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 13.5);
         }
         .parallax-js-moderm .layer-10 {
             z-index: 1;
             top: 27%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 14);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 14);
         }
         .parallax-js-moderm .layer-11 {
             top: 69%;
-            left: calc( 50% - 1200px / 2 + 1200px / 12 * 9.55);
+            left: calc(50% - 1200px / 2 + 1200px / 12 * 9.55);
         }
     }
     
@@ -14589,12 +14589,12 @@
     
     .title-principal {
         font-family: Flexo-Bold;
-        font-size: 100px;
+        font-size: 60px;
     }
     
     .subtitle-principal {
         font-family: Flexo-Bold;
-        font-size: 80px;
+        font-size: 30px;
     }
     
     .badge-orange {
@@ -14635,6 +14635,10 @@
     .button-orange {
         border-radius: 10px;
         font-size: 14px;
+    }
+    
+    .button-orange {
+        margin-bottom: 2em;
     }
     
     .title-meet {
@@ -14771,7 +14775,7 @@
     
     .title-contact {
         font-family: Flexo-Bold;
-        font-size: 53px;
+        font-size: 25px;
         text-align: left;
         color: #00227a;
     }
@@ -14785,12 +14789,33 @@
         font-family: Flexo-Light;
     }
     
+    .logo-footer {
+        width: 100px;
+    }
+    
     @media (min-width: 1200px) {
+        .logo-footer {
+            width: 200px;
+        }
+        .title-contact {
+            font-size: 53px;
+        }
+        .title-principal {
+            font-family: Flexo-Bold;
+            font-size: 100px;
+        }
+        .subtitle-principal {
+            font-family: Flexo-Bold;
+            font-size: 80px;
+        }
         .container-info {
             max-width: 1075px;
         }
         .container-info-challenge {
             max-width: 1000px;
             margin-bottom: 25px;
+        }
+        .button-orange {
+            margin-bottom: 0;
         }
     }
