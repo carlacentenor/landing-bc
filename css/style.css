@@ -1738,12 +1738,12 @@ h5+p,
     }
 }
 
- ::selection {
+::selection {
     background: #f09922;
     color: #ffffff;
 }
 
- ::-moz-selection {
+::-moz-selection {
     background: #f09922;
     color: #ffffff;
 }
@@ -14901,7 +14901,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 }
 
 .foto-1 {
-    background-image: url(../images/2.png);
+    background-image: url(../images/foto1.png);
     background-size: cover;
     background-position: bottom;
     height: 473px;
@@ -14909,6 +14909,14 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 }
 
 .foto-2 {
+    background-image: url(../images/2.png);
+    background-size: cover;
+    background-position: center;
+    height: 473px;
+    border-bottom: 5px solid white;
+}
+
+.foto-3 {
     background-image: url(../images/3.png);
     background-size: cover;
     background-position: right;
@@ -14916,7 +14924,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
     border-bottom: 5px solid white;
 }
 
-.foto-3 {
+.foto-4 {
     background-image: url(../images/4.png);
     background-size: cover;
     background-position: right;
@@ -14924,16 +14932,8 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
     border-bottom: 5px solid white;
 }
 
-.foto-4 {
-    background-image: url(../images/5.png);
-    background-size: cover;
-    background-position: right;
-    height: 473px;
-    border-bottom: 5px solid white;
-}
-
 .foto-5 {
-    background-image: url(../images/6.png);
+    background-image: url(../images/5.png);
     background-size: cover;
     background-position: right;
     height: 473px;
