@@ -1920,7 +1920,7 @@ a:active {
 }
 
 a:hover {
-    color: #d90e90;
+    color: #ff4f10;
 }
 
 a[href*='tel'],
@@ -1929,11 +1929,11 @@ a[href*='mailto'] {
 }
 
 .link-hover {
-    color: #d90e90;
+    color: #ff4f10;
 }
 
 .link-press {
-    color: #d90e90;
+    color: #ff4f10;
 }
 
 .link-inline {
@@ -10187,7 +10187,7 @@ button.swiper-pagination-bullet {
 
 .countdown {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
     align-items: center;
     margin-left: -5px;
@@ -14807,6 +14807,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 .countdown-title {
     font-family: Flexo-Light;
     font-size: 12px;
+    margin-top: 0;
 }
 
 .button-blue,
@@ -14827,7 +14828,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 .subtitle-meet {
     color: #00227a;
     font-family: Flexo-Medium;
-    font-size: 45px;
+    font-size: 35px;
 }
 
 .text-meet,
@@ -15060,6 +15061,13 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 }
 
 @media (min-width: 1200px) {
+
+
+    .countdown-title {
+  
+        font-size: 12px;
+    }
+    
     .foto-1 {
         border-bottom: none;
     }
@@ -15111,5 +15119,10 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
     }
     .button-orange {
         margin-bottom: 0;
+    }
+
+    .subtitle-meet {
+       
+        font-size: 45px;
     }
 }
