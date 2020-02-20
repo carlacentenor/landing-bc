@@ -1256,7 +1256,8 @@ html [class*='section-'].section-bottom-0 {
 /* Changes */
 
 .bg-gray-900 {
-    background-color: #15162b;
+  
+    background:  #00112F;
 }
 
 .bg-gray-900:not([style*="background-"])+.bg-gray-900:not([style*="background-"]) {
@@ -1916,11 +1917,11 @@ a:hover {
 a,
 a:focus,
 a:active {
-    color: #26264b;
+    color: white;
 }
 
 a:hover {
-    color: #ff4f10;
+    color: white;
 }
 
 a[href*='tel'],
@@ -1929,11 +1930,11 @@ a[href*='mailto'] {
 }
 
 .link-hover {
-    color: #ff4f10;
+    color: white;
 }
 
 .link-press {
-    color: #ff4f10;
+    color: white;
 }
 
 .link-inline {
@@ -5369,7 +5370,7 @@ textarea.form-input {
     width: 52px;
     height: 52px;
     line-height: 48px;
-    background-color: #ffffff;
+    
 }
 
 .speaker-social-list li {
@@ -8159,7 +8160,7 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-classic.rd-navbar-static.rd-navbar--is-stuck,
 .rd-navbar-classic.rd-navbar-static.rd-navbar--is-clone {
-    background-color: #26264b;
+    background-color: #00112F;
 }
 
 .rd-navbar-classic.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-aside-outer,
@@ -14910,7 +14911,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 }
 
 .foto-2 {
-    background-image: url(../images/2.png);
+    background-image: url(../images/6.png);
     background-size: cover;
     background-position: center;
     height: 473px;
