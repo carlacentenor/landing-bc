@@ -15060,8 +15060,25 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
     transform: rotate(45deg);
 }
 
+
+.text-r{
+    font-size: 25px;
+}
+
+.text-r2{
+    font-size: 20px;
+}
+
 @media (min-width: 1200px) {
 
+    .text-r{
+        font-size: 35px;
+    }
+    
+    .text-r2{
+        font-size: 30px;
+    }
+    
 
     .countdown-title {
   
