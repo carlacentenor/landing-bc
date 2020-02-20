@@ -7272,7 +7272,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-navbar-brand img {
-    max-width: 140px;
+    max-width: 100px;
     max-height: 58px;
     width: auto;
     height: auto;
@@ -8148,7 +8148,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-navbar-brand img {
-    max-width: 190px;
+    max-width: 120px;
     max-height: 200px;
 }
 
@@ -8169,8 +8169,8 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-classic.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-main,
 .rd-navbar-classic.rd-navbar-static.rd-navbar--is-clone .rd-navbar-main {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .rd-navbar-classic.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-nav-item>.rd-navbar-submenu,
