@@ -13221,7 +13221,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
     width: 100%;
     display: block;
     box-sizing: border-box;
-    background-color: #dfdcd5;
+    background-color: #c9c8c6;
     color: #00227a;
     font-family: Flexo-Light;
 }
@@ -15270,6 +15270,15 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
     font-size: 25px;
     text-align: left;
     color: #00227a;
+}
+
+.link-term{
+    color: #00227a;
+}
+
+.link-term:hover{
+    color: #00227a;
+    text-decoration: underline;
 }
 
 .text-prefooter {
